@@ -42,4 +42,13 @@ public abstract class Conta implements IConta {
         this.sacar(valor);
         contaDestino.depositar(valor);
     }
+
+    protected void imprimirInfos(){
+
+        System.out.println(String.format("Agencia: %d", this.agencia));
+        System.out.println(String.format("Conta: %d", this.numero));
+        System.out.println(String.format("Saldo: %.2f", this.saldo));
+
+
+    }
 }
