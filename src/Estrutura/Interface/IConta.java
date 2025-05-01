@@ -1,4 +1,6 @@
-package Estrutura;
+package Estrutura.Interface;
+
+import Estrutura.Conta.Conta;
 
 public interface IConta {
 

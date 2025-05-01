@@ -1,4 +1,4 @@
-package Estrutura;
+package Estrutura.Conta;
 
 public class ContaCorrente extends Conta {
 

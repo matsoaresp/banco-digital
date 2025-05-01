@@ -1,4 +1,4 @@
-package Estrutura;
+package Estrutura.Cliente;
 
 public class Cliente {
     private String nome;

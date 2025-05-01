@@ -1,6 +1,6 @@
-package Estrutura;
+package Estrutura.Conta;
 
-public class ContaPoupanca extends Conta{
+public class ContaPoupanca extends Conta {
 
 
     @Override

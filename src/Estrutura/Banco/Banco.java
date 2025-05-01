@@ -1,4 +1,4 @@
-package Estrutura;
+package Estrutura.Banco;
 
 public class Banco {
 

@@ -1,6 +1,6 @@
-import Estrutura.Conta;
-import Estrutura.ContaCorrente;
-import Estrutura.ContaPoupanca;
+import Estrutura.Conta.Conta;
+import Estrutura.Conta.ContaCorrente;
+import Estrutura.Conta.ContaPoupanca;
 
 public class Main {
     public static void main(String[] args) {

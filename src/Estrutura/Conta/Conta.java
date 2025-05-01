@@ -1,4 +1,4 @@
-package Estrutura;
+package Estrutura.Conta;
 
 public abstract class Conta implements IConta {
 
